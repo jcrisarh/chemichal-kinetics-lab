@@ -1,2 +1,3 @@
 #for local development and tests
 /local/
+.venv
